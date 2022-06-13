@@ -15,6 +15,9 @@
 |Car Mechanic Simulator 2015 |12|E||1|-|
 |Car Mechanic Simulator 2018 |12|E||1|-|
 |Cat Quest II |7|E 10+||2|-|
+|SpongeBob SquarePants: Battle for Bikini Bottom |7|E 10+||2|-|
+|The Adventure Pals |7|E 10+||2|-|
+|Bossgard |7|E 10+||6|-|
 |My Time At Portia |7|E 10+||1|-|
 |Assault Android Cactus+ | 7|E 10+||4|-|
 |Sky Force Reloaded |7|E 10+||2|-|
@@ -27,10 +30,12 @@
 |Juicy Realm ||E 10+||2|-|
 |Cuphead||E 10+|10|2|-|
 |Portal 2 |12|E 10+|10|2|33|
+|Spiritfarer: Farewell Edition |12|E 10+||2|-|
 |Bastion | 12 |E 10+||1|-|
 |Guacamelee! 2 |12|E 10+||4|-|
 |Nine Parchments |12|E 10+||4|4|
 |Sundered®: Eldritch Edition |12|E 10+||4|-|
+|Children of Morta |12|T||2|2|
 |Darksiders Genesis |12|T||2|2|
 |Don't Starve |12|T||1|-|
 |Don't Starve Together |12|T||1|4|
