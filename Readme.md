@@ -11,7 +11,7 @@
 |Slime Rancher|3|E 10+||1|-|
 |Nihilumbra|7|E||1|-|
 |Human: Fall Flat |3|E|7|2|8|
-|Kopanito All-Stars Soccer ||E||5|10|
+|Kopanito All-Stars Soccer |12|E|5|10|
 |Car Mechanic Simulator 2015 |12|E||1|-|
 |Car Mechanic Simulator 2018 |12|E||1|-|
 |Cat Quest II |7|E 10+||2|-|
@@ -50,10 +50,10 @@
 |Street Fighter V |12|T||2|2|
 |Tesla vs Lovecraft |12|T||4|-|
 |Torchlight II |12|T|15|1|6|
-|Minion Masters |12|||1|4|
-|Samurai Riot |12|||2|-|
-|Bladed Fury |12|||1|-|
-|Lost Castle|12|||4|4|
+|Minion Masters |12|T|1|4|
+|Samurai Riot |12|E 10+|2|-|
+|Bladed Fury |12|T|1|-|
+|Lost Castle|12|T|4|4|
 |Dota 2|12|T|13|1|10|
 |Insurgency|18|M|15|1|8|
 |Battle Planet - Judgement Day |16|T||2|-|
@@ -322,6 +322,7 @@
 |Wizard of Legend||||||
 |Worbital||||||
 |Yaga||||||
+
 
 
 
