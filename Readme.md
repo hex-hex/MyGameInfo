@@ -9,7 +9,7 @@
 |Two Point Hospital |3|E 10+|10|1|-|
 |Cat Quest|3|E 10+|8|1|-|
 |Slime Rancher|3|E 10+||1|-|
-|Nihilumbra|7|E||1|-|
+|Nihilumbra|7|E|9|1|-|
 |Human: Fall Flat |3|E|7|2|8|
 |Kopanito All-Stars Soccer |12|E|5|10|
 |Car Mechanic Simulator 2015 |12|E||1|-|
