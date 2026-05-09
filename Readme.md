@@ -27,8 +27,8 @@
 |Unruly Heroes |7|E 10+||4|-|
 |Hollow Knight |7|E 10+|10|1|-|
 |Quest Hunter |12|E 10+|7|4|4|
-|Juicy Realm ||E 10+||2|-|
-|Cuphead||E 10+|10|2|-|
+|Juicy Realm |7|E 10+||2|-|
+|Cuphead|7|E 10+|10|2|-
 |Portal 2 |12|E 10+|10|2|33|
 |Spiritfarer: Farewell Edition |12|E 10+||2|-|
 |Bastion | 12 |E 10+||1|-|
@@ -322,4 +322,5 @@
 |Wizard of Legend||||||
 |Worbital||||||
 |Yaga||||||
+
 
