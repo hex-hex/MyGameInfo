@@ -54,8 +54,8 @@
 |Samurai Riot |12|||2|-|
 |Bladed Fury |12|||1|-|
 |Lost Castle|12|||4|4|
-|Dota 2|||13|1|10|
-|Insurgency|||15|1|8|
+|Dota 2|12|T|13|1|10|
+|Insurgency|18|M|15|1|8|
 |Battle Planet - Judgement Day |16|T||2|-|
 |Citadel: Forged with Fire|16|T||1|100|
 |Batman: Arkham Asylum Game of the Year Edition |16|T||1|-|
@@ -322,5 +322,6 @@
 |Wizard of Legend||||||
 |Worbital||||||
 |Yaga||||||
+
 
 
