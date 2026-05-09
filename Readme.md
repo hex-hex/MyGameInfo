@@ -8,12 +8,12 @@
 |Farm Together|3|E||4|16|
 |Two Point Hospital |3|E 10+|10|1|-|
 |Cat Quest|3|E 10+|8|1|-|
-|Slime Rancher|3|E 10+||1|-|
+|Slime Rancher|3|E 10+|8|1|-|
 |Nihilumbra|7|E|9|1|-|
 |Human: Fall Flat |3|E|7|2|8|
 |Kopanito All-Stars Soccer |12|E|5|10|
-|Car Mechanic Simulator 2015 |12|E||1|-|
-|Car Mechanic Simulator 2018 |12|E||1|-|
+|Car Mechanic Simulator 2015 |12|E|8|1|-|
+|Car Mechanic Simulator 2018 |12|E|8|1|-|
 |Cat Quest II |7|E 10+|8|2|-|
 |SpongeBob SquarePants: Battle for Bikini Bottom |7|E 10+||2|-|
 |The Adventure Pals |7|E 10+||2|-|
