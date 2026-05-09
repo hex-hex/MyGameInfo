@@ -10,7 +10,7 @@
 |Cat Quest|3|E 10+||1|-|
 |Slime Rancher|3|E 10+||1|-|
 |Nihilumbra|7|E||1|-|
-|Human: Fall Flat ||E|7|2|8|
+|Human: Fall Flat |3|E|7|2|8|
 |Kopanito All-Stars Soccer ||E||5|10|
 |Car Mechanic Simulator 2015 |12|E||1|-|
 |Car Mechanic Simulator 2018 |12|E||1|-|
@@ -26,7 +26,7 @@
 |AER Memories of Old|7|E 10+||1|-|
 |Unruly Heroes |7|E 10+||4|-|
 |Hollow Knight |7|E 10+|10|1|-|
-|Quest Hunter |||7|4|4|
+|Quest Hunter |12|E 10+|7|4|4|
 |Juicy Realm ||E 10+||2|-|
 |Cuphead||E 10+|10|2|-|
 |Portal 2 |12|E 10+|10|2|33|
@@ -322,3 +322,4 @@
 |Wizard of Legend||||||
 |Worbital||||||
 |Yaga||||||
+
