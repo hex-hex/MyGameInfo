@@ -2,8 +2,8 @@
 |-|-|-|-|-|-|
 |Everything|3|E||1|-|
 |The Witness |3|E||1|-|
-|Overcooked|3|E||4|-|
-|Overcooked 2|3|E||4|4|
+|Overcooked|3|E|8|4|-|
+|Overcooked 2|3|E|8|4|4|
 |Moving Out |3|E||4|-|
 |Farm Together|3|E||4|16|
 |Two Point Hospital |3|E 10+|10|1|-|
